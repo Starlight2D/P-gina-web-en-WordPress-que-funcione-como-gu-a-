@@ -1,10 +1,10 @@
-## 🧩 Requerimientos del Proyecto
+## Requerimientos del Proyecto
 
 El proyecto contempla dos tipos de requerimientos: funcionales y no funcionales. A continuación se detallan:
 
 ---
 
-### ✅ Requerimientos Funcionales
+###  Requerimientos Funcionales
 
 - Visualización clara de los pasos administrativos (SIPI, SICEI, inducción, carga académica)
 - Navegación por secciones temáticas
@@ -14,7 +14,7 @@ El proyecto contempla dos tipos de requerimientos: funcionales y no funcionales.
 
 ---
 
-### ⚙️ Requerimientos No Funcionales
+###  Requerimientos No Funcionales
 
 - Interfaz intuitiva y amigable para estudiantes sin experiencia técnica
 - Rendimiento optimizado para carga rápida en navegadores comunes
