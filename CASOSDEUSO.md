@@ -1,10 +1,10 @@
-## 📘 Casos de Uso del Proyecto Guía Web LIS-UADY
+## Casos de Uso del Proyecto Guía Web LIS-UADY
 
 A continuación se describen los principales escenarios de interacción entre los usuarios y el sitio web:
 
 ---
 
-### 🎓 Caso de Uso 1: Consultar pasos administrativos
+### Caso de Uso 1: Consultar pasos administrativos
 
 **Actor principal:** Estudiante de nuevo ingreso  
 **Objetivo:** Comprender el proceso de inscripción, carga académica y uso de plataformas (SIPI, SICEI)  
@@ -16,7 +16,7 @@ A continuación se describen los principales escenarios de interacción entre lo
 
 ---
 
-### 📚 Caso de Uso 2: Descargar recursos académicos
+###  Caso de Uso 2: Descargar recursos académicos
 
 **Actor principal:** Estudiante interesado en reforzar conceptos  
 **Objetivo:** Obtener glosarios, diagramas y ejemplos útiles  
@@ -27,7 +27,7 @@ A continuación se describen los principales escenarios de interacción entre lo
 
 ---
 
-### 💬 Caso de Uso 3: Leer testimonios y preguntas frecuentes
+###  Caso de Uso 3: Leer testimonios y preguntas frecuentes
 
 **Actor principal:** Estudiante con dudas sobre la experiencia universitaria  
 **Objetivo:** Sentirse acompañado y resolver inquietudes comunes  
@@ -38,7 +38,7 @@ A continuación se describen los principales escenarios de interacción entre lo
 
 ---
 
-### 📱 Caso de Uso 4: Acceder desde diferentes plataformas
+###  Caso de Uso 4: Acceder desde diferentes plataformas
 
 **Actor principal:** Estudiante con distintos dispositivos  
 **Objetivo:** Consultar la guía desde celular, tablet o computadora  
@@ -49,7 +49,7 @@ A continuación se describen los principales escenarios de interacción entre lo
 
 ---
 
-### 🛠️ Caso de Uso 5: Actualizar contenido por generaciones futuras
+###  Caso de Uso 5: Actualizar contenido por generaciones futuras
 
 **Actor principal:** Estudiante colaborador o administrador del sitio  
 **Objetivo:** Mantener la guía actualizada y funcional  
