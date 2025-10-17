@@ -23,6 +23,28 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 - Las fechas pueden ajustarse según el ritmo de trabajo del equipo.  
 - Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega *(en resumen, nos atrasamos en ciertos aspectos jajaja)*.
 
+---
+
+##  Cumplimiento por Etapa
+
+| **Etapa** | **¿Se cumplió?** |
+|-----------|------------------|
+| Inicio del proyecto/Continuación | Sí |
+| Planeación |  Sí |
+| Análisis |  Sí |
+| Documentación técnica |  Sí |
+| Desarrollo en WordPress |  Parcialmente |
+| Diseño de interfaz |  Parcialmente |
+| Pruebas funcionales |  No |
+| Mantenimiento y respaldo |  No |
+| Integración en GitHub |  Sí |
+| Entrega final |  Sí |
+
+---
+
+## Justificación de cumplimiento
+
+
 
 
 
