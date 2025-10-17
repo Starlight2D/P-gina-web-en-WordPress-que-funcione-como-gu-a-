@@ -38,9 +38,6 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/cf72847a779dacfd123546284fe7063e9fe84332/entradas.png)
   
-- Se definió la estructura general de navegación.
-  
-  ![]()
 
 ---
 
