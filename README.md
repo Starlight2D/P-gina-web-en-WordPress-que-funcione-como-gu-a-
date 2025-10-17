@@ -3,7 +3,7 @@
 
 El propósito de este proyecto es diseñar y construir una página web en **WordPress** que funcione como guía exclusiva para estudiantes de nuevo ingreso a la **Licenciatura en Ingeniería de Software (LIS)** en la **Universidad Autónoma de Yucatán (UADY), Unidad Multidisciplinaria de Tizimin(UMT)**.
 
-Esta plataforma busca acompañar al estudiante en cada etapa del proceso de ingreso, desde el registro en el portal **SIPI** hasta el inicio de clases presenciales, ofreciendo información clara, accesible y empática, basada en la experiencia real de los integrantes del equipo.
+Esta plataforma busca acompañar al estudiante en cada etapa del proceso de ingreso, desde el registro en el portal **SIPI** hasta el inicio de clases presenciales, ofreciendo información clara, accesible y empática, basada en la experiencia real de nosotros como integrantes del equipo.
 
 ---
 
