@@ -21,7 +21,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 
 ### Notas
 - Las fechas pueden ajustarse según el ritmo de trabajo del equipo.  
-- Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega *(en resumen, nos atrasamos en ciertos aspectos)*.
+- Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega *(en resumen, nos atrasamos en ciertos aspectos jajaja)*.
 
 
 
