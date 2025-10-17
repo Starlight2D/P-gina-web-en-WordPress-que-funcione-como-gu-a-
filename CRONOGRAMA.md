@@ -1,6 +1,6 @@
 ## Cronograma de Actividades – Proyecto Guía Web LIS-UADY
 
-Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiembre de 2025** y la fecha de entrega el **lunes 20 de octubre de 2025**.
+Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiembre de 2025** y la fecha de entrega estimada del tiempo el **lunes 20 de octubre de 2025**.
 
 ---
 
