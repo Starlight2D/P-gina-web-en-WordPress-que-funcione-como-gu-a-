@@ -15,7 +15,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 | Pruebas funcionales | La validación de navegación para los usaurios, que tenga accesibilidad y no halla errores | 15 – 16 oct | Rodrigo |
 | Mantenimiento y respaldo | Una revisión técnica y posiblemente ajustes finales | 17 – 18 oct | Damián |
 | Integración en GitHub | La subida de documentos, capturas, cronograma y avances | 10 – 19 oct | Todo el equipo |
-| Entrega final | Revisión general y cierre de la parte que se termino o si no se termino todo el sitio web, junto al repositorio | **20 oct 2025** | Todo el equipo |
+| Entrega final | Revisión general y cierre de la parte que se termino o si no se termino todo el en sitio web, junto al repositorio | **20 oct 2025** | Todo el equipo |
 
 ---
 
