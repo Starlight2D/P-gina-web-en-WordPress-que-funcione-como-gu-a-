@@ -57,7 +57,7 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   
 - Se ajustaron colores, el diseño y disposición de secciones para la pagina, asi se logró una primera versión visual funcional del sitio.
   
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/20c619e4b00389349908b4ee03b0de23df89754d/dise%C3%B1o.png)
 
 ---
 
