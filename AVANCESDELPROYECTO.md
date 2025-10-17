@@ -43,7 +43,7 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 
 ###  13 y 14 de octubre – Solicitud de contenido visual
 - El desarrollador 2 solicitó imágenes para el diseño del sitio.
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/d4993bc9f0b6bca95b4c80513b857f914aebd0a5/imagenes.png)
 - Por tareas académicas y personales, el equipo se atrasó en la entrega de fotos, esto impactó el ritmo de avance en la parte visual.
 
 ---
