@@ -67,7 +67,7 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/0a60fb3e6abeffee6e0d8bf19e1246c45ffc18cd/estructura.png)
 
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/2ddf87663317a008f5db68a07341a245bdd36a1c/estructura2.jpg)
   
 - Hoy, 17 de octubre, se tiene como meta cerrar completamente la edición del sitio web, aunque hay aspetos que aun quedan pendientes.
 
