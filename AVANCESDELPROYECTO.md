@@ -22,7 +22,7 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 ###  11 de octubre – Integración del equipo
 - El lider del proyecto invitó a los miembros del equipo para trabajar en WordPress.
   
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/cb3512369c34cae2115ca4a44606b458f9de3a3f/invitarmiembros.png)
   
 - Todos aceptaron la invitación vía correo electrónico, asi se estableció el acceso compartido para edición y revisión.
   ![]()
