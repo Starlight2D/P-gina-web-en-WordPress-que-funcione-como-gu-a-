@@ -1,6 +1,6 @@
 ##  Avances en la Página Web – WordPress
 
-Este apartado documenta las acciones realizadas directamente en la plataforma WordPress, desde la creación del sitio hasta su estructuración visual. Se incluyen fechas, responsables, dificultades enfrentadas y decisiones tomadas.
+Este apartado documenta las acciones realizadas directamente en la plataforma WordPress, desde la creación del sitio hasta su estructuración visual. Se incluyen fechas, los responsables, las dificultades enfrentadas y decisiones tomadas.
 
 ---
 
