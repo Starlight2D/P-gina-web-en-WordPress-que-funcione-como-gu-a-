@@ -1,4 +1,4 @@
-## 🌐 Sitio Web del Proyecto
+##  Sitio Web del Proyecto
 
 Este proyecto se desarrolla en WordPress y está disponible públicamente en el siguiente enlace:
 
