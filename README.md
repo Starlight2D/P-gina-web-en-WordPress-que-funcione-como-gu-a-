@@ -9,14 +9,14 @@ Esta plataforma busca acompañar al estudiante en cada etapa del proceso de ingr
 
 ##  Enfoque y estructura
 
-La guía está pensada como una herramienta digital que simplifique el proceso de **admisión y adaptación universitaria** para quienes han elegido la carrera de Ingeniería de Software, mediante a través de una estructura visual y amigable, se presentarán:
+La guía está pensada como una herramienta digital que simplifique el proceso de **admisión y adaptación universitaria** para quienes han elegido la carrera de Ingeniería de Software, mediante a través de una estructura visual y amigable, se quiere presentar:
 
 - Los pasos administrativos
 - Documentos requeridos
 - Fechas clave
 - Consejos prácticos
 
-Además, se integrará contenido **simbólico y ético** que valide las emociones del estudiante y promueva el autocuidado.
+Además, se integrará contenido **simbólico y ético** que valide las emociones del estudiante y promueva el autocuidado(Cositas random dentro de la pagina)
 
 ---
 
