@@ -30,9 +30,9 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 ---
 
 ###  12 de octubre – Estructura inicial del sitio
-- El desarrollador 1 comenzó a construir el “esqueleto” del sitio.
+- El desarrollador 1 comenzó a construir las paginas para que sean como el “esqueleto” del sitio.
   ![]()
-- Se crearon las páginas internas y entradas base.
+- Se crearon las entradas base.
   ![]()
 - Se definió la estructura general de navegación.
   ![]()
