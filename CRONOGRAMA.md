@@ -43,6 +43,11 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 ---
 
 ## Justificación de cumplimiento
+- Las primeras etapas se cumplieron en tiempo y forma, incluyendo la planeación, análisis y documentación técnica, ya que la primera parte como es documentación nos sirvió en la organización del equipo, pero el uso de GitHub como repositorio central, la espera se tuvo que alagar ya que no llegábamos a un acuerdo sobre la pagina, mas que mucho del cronograma estaba en Monday pero se acabo la prueba gratuita y nos pedía pagar entonces tuvimos que reescribir varios aspectos.
+- El desarrollo y diseño se realizaron, pero algunos elementos visuales y estructurales quedaron pendientes o en revisión, por lo que se consideran **parcialmente cumplidos**, aun asi estamos viendo dejar listo aspectos que nos parecen importantes y necesarios.
+- Las **pruebas funcionales** y el **mantenimiento técnico** no se ejecutaron completamente debido a ajustes de último momento, falta de tiempo y reorganización de prioridades, debido a que el desarrollador 1 estaba en una situación de faltar lo cual no daba para explicarle como equipo ciertos aspectos.
+- A pesar de los retos, se logró integrar la documentación y los avances en GitHub, y se realizó una entrega formal del proyecto en el estado mejor posible.
+- El equipo mantuvo una actitud ética, colaborativa y flexible, adaptándose a los cambios y priorizando la claridad para no saturarnos porque si otras materias no estaban llevando el tiempo.
 
 
 
