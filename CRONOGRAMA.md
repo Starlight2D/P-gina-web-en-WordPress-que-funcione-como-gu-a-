@@ -8,7 +8,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 |-----------|----------------|-------------------|---------------------|
 | Inicio del proyecto/Continuacion | Entrega del primer avance, está en el documento base que se entregó | 29 sep 2025 | Brandon |
 | Planeación | Definición de roles, objetivos y estructura, se documentara en GitHub | 30 sep – 2 oct | Todo el equipo |
-| Análisis | Identificación de necesidades, requerimientos y casos de uso | 3 – 5 oct | Brandon, Rodrigo |
+| Análisis | Mejorar las necesidades, requerimientos y casos de uso, para GitHub | 3 – 5 oct | Brandon, Rodrigo |
 | Documentación técnica | Redacción de metodología, requerimientos, roles | 6 – 8 oct | Brandon |
 | Diseño de interfaz | Bosquejo visual, estructura de navegación | 9 – 10 oct | Esteban, Luis |
 | Desarrollo en WordPress | Construcción del sitio, integración de contenido | 11 – 14 oct | Esteban, Luis |
@@ -21,7 +21,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 
 ### Notas
 - Las fechas pueden ajustarse según el ritmo de trabajo del equipo. 
-- Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega.
+- Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega(en resumen nos atrasamos en ciertos aspectos).
 
 
 
