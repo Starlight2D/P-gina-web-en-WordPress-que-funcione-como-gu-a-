@@ -11,7 +11,8 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   
 - Se optó por trabajar con el dominio gratuito para evitar retrasos.
   
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/c755b2a23e5a2430ba5ae5123776ddce132ba99f/dominio.png)
+  
 - Se le asignó un nombre oficial al sitio web.
   
   ![]()
