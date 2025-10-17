@@ -43,15 +43,20 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 
 ###  13 y 14 de octubre – Solicitud de contenido visual
 - El desarrollador 2 solicitó imágenes para el diseño del sitio.
+  
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/d4993bc9f0b6bca95b4c80513b857f914aebd0a5/imagenes.png)
+  
 - Por tareas académicas y personales, el equipo se atrasó en la entrega de fotos, esto impactó el ritmo de avance en la parte visual.
 
 ---
 
 ###  15 de octubre – Aplicación del diseño visual
 - Se integraron las imágenes recibidas y se aplicó el diseño que se necesitaba.
-  ![]()
+  
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/4d7979776d2ab3030580e0ad394c6e5f91980e4a/imagenesrecibidas.png)
+  
 - Se ajustaron colores, el diseño y disposición de secciones para la pagina, asi se logró una primera versión visual funcional del sitio.
+  
   ![]()
 
 ---
