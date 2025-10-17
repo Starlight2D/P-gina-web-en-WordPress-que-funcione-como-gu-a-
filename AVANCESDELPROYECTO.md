@@ -65,7 +65,9 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 - Aunque el cronograma marcaba más días, se decidió terminar el sitio antes del 20 de octubre.
 - Se realizaron ajustes finales en estructura, contenido y el diseñom tristemente quedo mal ya que pedia pagar por los colores
   
-  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/53062a75df22b0181fe694d27b8d4b71fb805367/estructura.png)
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/0a60fb3e6abeffee6e0d8bf19e1246c45ffc18cd/estructura.png)
+
+  ![]()
   
 - Hoy, 17 de octubre, se tiene como meta cerrar completamente la edición del sitio web, aunque hay aspetos que aun quedan pendientes.
 
