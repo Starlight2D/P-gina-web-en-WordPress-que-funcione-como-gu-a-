@@ -25,20 +25,21 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 
 ---
 
-##  Cumplimiento por Etapa
+## Cumplimiento y justificación de cada etapa
 
-| **Etapa** | **¿Se cumplió?** |
-|-----------|------------------|
-| Inicio del proyecto/Continuación | Sí |
-| Planeación |  Sí |
-| Análisis |  Sí |
-| Documentación técnica |  Sí |
-| Desarrollo en WordPress |  Parcialmente |
-| Diseño de interfaz |  Parcialmente |
-| Pruebas funcionales |  No |
-| Mantenimiento y respaldo |  No |
-| Integración en GitHub |  Sí |
-| Entrega final |  Sí |
+| **Etapa** | **¿Se cumplió?** | **¿Por qué?** |
+|-----------|------------------|---------------|
+| Inicio del proyecto/Continuación | Sí | Se entregó el documento base con la visión inicial del proyecto, pero se modificaron aspectos necesarios. |
+| Planeación | Sí | Se definieron roles, objetivos y estructura, se esta documentando en GitHub. |
+| Análisis | Sí | Se mejoraron los requerimientos y casos de uso, adaptados a las necesidades que nosotros consideramos como equipo. |
+| Documentación técnica | Sí | Se redactó la metodología, ademas delcronograma que acada rato se modifica y agrega cosas. |
+| Desarrollo en WordPress | Parcialmente | Se creó el enlace y se integró contenido básico, pero algunos elementos quedaron pendientes, debido a los integrantes que les corresponde esa chamba. |
+| Diseño de interfaz | Parcialmente | El bosquejó es la estructura visual, pero no se aplicaron todos los ajustes planeados. |
+| Pruebas funcionales | No | No se realizaron por falta de tiempo y ajustes en la planificación, ya que mucho estaba organizado con Monday. |
+| Mantenimiento y respaldo | No | No se ejecutó la revisión técnica final por reorganización de tareas. |
+| Integración en GitHub | Sí | Se subieron los documentos, capturas y cronograma conforme a lo planeado, pero muchos de estos estan teniendo modificaciones. |
+| Entrega final | Sí | Se entregara el proyecto con lo avanzado, checando lo pendiente y |
+
 
 ---
 
@@ -47,7 +48,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 - El desarrollo y diseño se realizaron, pero algunos elementos visuales y estructurales quedaron pendientes o en revisión, por lo que se consideran **parcialmente cumplidos**, aun asi estamos viendo dejar listo aspectos que nos parecen importantes y necesarios.
 - Las **pruebas funcionales** y el **mantenimiento técnico** no se ejecutaron completamente debido a ajustes de último momento, falta de tiempo y reorganización de prioridades, debido a que el desarrollador 1 estaba en una situación de faltar lo cual no daba para explicarle como equipo ciertos aspectos.
 - A pesar de los retos, se logró integrar la documentación y los avances en GitHub, y se realizó una entrega formal del proyecto en el estado mejor posible.
-- El equipo mantuvo una actitud ética, colaborativa y flexible, adaptándose a los cambios y priorizando la claridad para no saturarnos porque si otras materias no estaban llevando el tiempo.
+- El equipo mantuvo una actitud positiva, colaborativa y flexible, adaptándose a los cambios y priorizando la claridad para no saturarnos porque si otras materias no estaban llevando el tiempo, , ya que a la hora que no sea codigo es mas complicado documentar cada aspecto de la pagian en WordPress
 
 
 
