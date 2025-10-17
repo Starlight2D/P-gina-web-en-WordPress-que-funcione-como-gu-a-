@@ -15,7 +15,7 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   
 - Se le asignó un nombre oficial al sitio web.
   
-  ![]()
+  ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/970b9a0d7dd83aa1baa51c092bc5bcf72cc42e83/nombresitio.png)
 
 ---
 
