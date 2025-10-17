@@ -10,15 +10,19 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/2f63e0d95623d3c12f39750aaa5321de072f7123/enlace.png)
   
 - Se optó por trabajar con el dominio gratuito para evitar retrasos.
+  
   ![]()
 - Se le asignó un nombre oficial al sitio web.
+  
   ![]()
 
 ---
 
 ###  11 de octubre – Integración del equipo
 - El lider del proyecto invitó a los miembros del equipo para trabajar en WordPress.
+  
   ![]()
+  
 - Todos aceptaron la invitación vía correo electrónico, asi se estableció el acceso compartido para edición y revisión.
   ![]()
 
