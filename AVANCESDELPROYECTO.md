@@ -6,7 +6,9 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 
 ###  10 de octubre – Creación del enlace del sitio web
 - Se inició la etapa de desarrollo en WordPress, mediante la creacion del enlace de la página, aunque hubo complicaciones por intentos de pago para el dominio.
+  
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/2f63e0d95623d3c12f39750aaa5321de072f7123/enlace.png)
+  
 - Se optó por trabajar con el dominio gratuito para evitar retrasos.
   ![]()
 - Se le asignó un nombre oficial al sitio web.
