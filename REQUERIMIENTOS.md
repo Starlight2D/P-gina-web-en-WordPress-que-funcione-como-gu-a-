@@ -10,7 +10,7 @@ El proyecto contempla dos tipos de requerimientos: los funcionales y no funciona
 - Navegación por secciones temáticas
 - Descarga de recursos (glosarios, ejemplos)
 - Acceso desde diferentes plataformas (PC, móvil, tablet)
-- Inclusión de testimonios y preguntas frecuentes (integrado en la estructura del sitio, pero son por personas que quieran comentar en el sitio)
+- Inclusión de testimonios y preguntas frecuentes (integrado en la estructura del sitio, pero son por personas que quieran comentar en el sitio web)
 
 ---
 
