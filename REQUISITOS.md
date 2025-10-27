@@ -1,6 +1,6 @@
 ## Requisitos del Proyecto
 
-El proyecto contempla dos tipos de requerimientos: funcionales y no funcionales. A continuación se presentan ordenados por prioridad e impacto, siguiendo la metodología en cascada.
+El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales. A continuación se presentan ordenados por prioridad e impacto, siguiendo la metodología en cascada.
 
 ---
 
