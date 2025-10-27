@@ -5,12 +5,8 @@
 **Responsabilidades:** Coordinación general, definición de estructura, validación de contenido y metodología.
 
 ### Carlos Esteban Castro Uh  
-**Rol:** Desarrollador 1  
-**Responsabilidades:** Implementación de secciones clave en WordPress, integración de plugins y navegación.
-
-### Luis Alberto Díaz Gutiérrez  
-**Rol:** Desarrollador 2  
-**Responsabilidades:** Diseño visual, estructura de bloques y optimización de interfaz.
+**Rol:** Desarrollador 
+**Responsabilidades:** Implementación de secciones clave en WordPress, integración de plugins y navegación, ademas ahora ve el diseño, estructura de bloques y optimización de interfaz.
 
 ### Ángel Rodrigo Gómez Herguera  
 **Rol:** Tester  
