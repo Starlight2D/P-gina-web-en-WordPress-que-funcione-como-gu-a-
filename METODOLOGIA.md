@@ -5,3 +5,5 @@ Para el desarrollo de este proyecto se ha elegido el **modelo en cascada**, debi
 Aunque el modelo tradicional es lineal, en este proyecto lo estamos adaptando con **flexibilidad estratégica**, permitiendo retroceder a etapas anteriores cuando se requiere ajustar contenido, estructura o enfoque según la retroalimentación que llegemos a tener como equipo.
 
 Además, se complementa con el uso de **prototipos visuales** que permiten validar la interfaz, la navegación y el contenido antes de finalizar el desarrollo en WordPress. Esto asegura que el producto final(aunque el producto aun no esta terminado o no puede terminarse) sea coherente con los objetivos éticos, funcionales y simbólicos del proyecto que nosotros le queremos poner al proyecto 
+
+![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/b837d09c6712d3d3e82329c862aade6aeba68569/gr%C3%A1ficocascada.png)
