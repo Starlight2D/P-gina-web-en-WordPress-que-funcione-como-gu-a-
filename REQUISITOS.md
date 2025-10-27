@@ -2,7 +2,7 @@
 
 El proyecto contempla dos tipos de requerimientos: los funcionales y no funcionales. A continuación se detallan:
 
-| Tipo de Requisito | Descripción Detallada | Fase en Cascada | Tiempo Estimado |
+| Tipo de Requisito | Descripción  | Fase en Cascada | Tiempo Estimado |
 |-------------------|------------------------|------------------|------------------|
 | Funcional         | Visualización clara de pasos administrativos (SIPI, SICEI, inducción, carga académica) | Análisis + Diseño | 2 días |
 | Funcional         | Navegación por secciones temáticas (estructura clara, menú accesible) | Diseño + Implementación | 3 días |
