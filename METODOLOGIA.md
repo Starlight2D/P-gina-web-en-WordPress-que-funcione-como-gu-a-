@@ -6,4 +6,4 @@ Aunque el modelo tradicional es lineal, en este proyecto lo estamos adaptando co
 
 Además, se complementa con el uso de **prototipos visuales** que permiten validar la interfaz, la navegación y el contenido antes de finalizar el desarrollo en WordPress. Esto asegura que el producto final(aunque el producto aun no esta terminado o no puede terminarse) sea coherente con los objetivos éticos, funcionales y simbólicos del proyecto que nosotros le queremos poner al proyecto 
 
-![]()
+![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/5ce7df3f3b73395c1ce9c2dc1d94e83107c74fcc/graficacascada.png)
