@@ -26,7 +26,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 | Pruebas funcionales | No | No se realizaron por falta de tiempo y ajustes en la planificación, ya que mucho estaba organizado con Monday. |
 | Mantenimiento y respaldo | No | No se ejecutó la revisión técnica final por reorganización de tareas. |
 | Integración en GitHub | Sí | Se subieron los documentos, capturas y cronograma conforme a lo planeado, pero muchos de estos estan teniendo modificaciones. |
-| Entrega final | Sí | Se entregara el proyecto con lo avanzado, checando lo pendiente y lo que esta en proceso. |
+| Entrega de como esta el proyecto | Parcialmente | Se entregara el proyecto con lo avanzado, checando lo pendiente y lo que esta en proceso. |
 
 
 ---
