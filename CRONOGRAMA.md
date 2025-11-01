@@ -9,7 +9,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 
 ### Notas
 - Las fechas pueden ajustarse según el ritmo de trabajo del equipo.  
-- Nuestro equipo hizo todo lo posible para abarcar el tiempo establecido, pero ocurrieron situaciones que requirieron ajustes y flexibilidad en algunas etapas. Aun así, se mantuvo el compromiso ético y académico en cada entrega *(en resumen, nos atrasamos en ciertos aspectos jajaja)*.
+
 
 ---
 
@@ -31,12 +31,13 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 
 ---
 
-## Bitacora
-- Las primeras etapas se cumplieron en tiempo y forma, incluyendo la planeación, análisis y documentación técnica, ya que la primera parte como es documentación nos sirvió en la organización del equipo, pero el uso de GitHub como repositorio central, la espera se tuvo que alagar ya que no llegábamos a un acuerdo sobre la pagina, mas que mucho del cronograma estaba en Monday pero se acabo la prueba gratuita y nos pedía pagar entonces tuvimos que reescribir varios aspectos.
-- El desarrollo y diseño se realizaron, pero algunos elementos visuales y estructurales quedaron pendientes o en revisión, por lo que se consideran **parcialmente cumplidos**, aun asi estamos viendo dejar listo aspectos que nos parecen importantes y necesarios.
-- Las **pruebas funcionales** y el **mantenimiento técnico** no se ejecutaron completamente debido a ajustes de último momento, falta de tiempo y reorganización de prioridades, debido a que el desarrollador 1 estaba en una situación de faltar lo cual no daba para explicarle como equipo ciertos aspectos.
-- A pesar de los retos, se logró integrar la documentación y los avances en GitHub, y se realizó una entrega formal del proyecto en el estado mejor posible.
-- El equipo mantuvo una actitud positiva, colaborativa y flexible, adaptándose a los cambios y priorizando la claridad para no saturarnos porque si otras materias no estaban llevando el tiempo, , ya que a la hora que no sea codigo es mas complicado documentar cada aspecto de la pagian en WordPress
+## Bitácora del Proyecto
+- Las etapas iniciales del proyecto —incluyendo la planeación, el análisis y la documentación técnica— se cumplieron en tiempo y forma. La elaboración de la documentación fue clave para la organización interna del equipo. Sin embargo, la implementación de GitHub como repositorio central presentó demoras, debido a que no se lograba consenso sobre la estructura de la página. Además, gran parte del cronograma estaba alojado en la plataforma Monday, cuya versión gratuita expiró, lo que obligó al equipo a reescribir y reorganizar varios elementos del plan de trabajo.
+- Las fases de desarrollo y diseño fueron ejecutadas conforme a lo previsto. No obstante, algunos componentes visuales y estructurales quedaron pendientes o en proceso de revisión, por lo que se consideran **parcialmente cumplidos**. El equipo continúa trabajando en la consolidación de aquellos aspectos que se consideran esenciales para la funcionalidad y coherencia del sitio.
+- Las **pruebas funcionales** y el **mantenimiento técnico** no pudieron completarse en su totalidad. Esto se debió a ajustes de último momento, limitaciones de tiempo y una reorganización de prioridades. Además, la ausencia temporal de uno de los desarrolladores dificultó la comunicación y la transferencia de conocimientos necesarios para avanzar en ciertas tareas.
+- A pesar de los desafíos enfrentados, se logró integrar la documentación y los avances técnicos en el repositorio de GitHub. Asimismo, se realizó una entrega formal del proyecto en el mejor estado posible, considerando las condiciones y recursos disponibles.
+- El equipo mantuvo una actitud proactiva, colaborativa y flexible a lo largo del proceso. Se priorizó la claridad organizativa para evitar sobrecargas, especialmente considerando que otras asignaturas también requerían atención. Cabe destacar que, al tratarse de un proyecto web en WordPress, la documentación técnica implicó un esfuerzo adicional, dado que muchos elementos no se expresan directamente en código, lo que exigió una descripción detallada de cada componente funcional y visual.
+
 
 
 
