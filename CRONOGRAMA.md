@@ -20,7 +20,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 | Inicio del proyecto/Continuación | Sí | Se entregó el documento base con la visión inicial del proyecto, pero se modificaron aspectos necesarios. |
 | Planeación | Sí | Se definieron roles, objetivos y estructura, se esta documentando en GitHub. |
 | Análisis | Sí | Se mejoraron los requerimientos y casos de uso, adaptados a las necesidades que nosotros consideramos como equipo. |
-| Documentación técnica | Sí | Se redactó la metodología, ademas delcronograma que acada rato se modifica y agrega cosas. |
+| Documentación técnica | Sí | Se redactó la metodología, ademas del cronograma que acada rato se modifica y agrega cosas. |
 | Desarrollo en WordPress | Parcialmente | Se creó el enlace y se integró contenido básico, pero algunos elementos quedaron pendientes, debido a los integrantes que les corresponde esa chamba. |
 | Diseño de interfaz | Parcialmente | El bosquejó es la estructura visual, pero no se aplicaron todos los ajustes planeados. |
 | Pruebas funcionales | No | No se realizaron por falta de tiempo y ajustes en la planificación, ya que mucho estaba organizado con Monday. |
