@@ -16,8 +16,8 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/bad24913b8ff18170f48ad55d0e79d847111da20/casosdeuso.jpeg)
 
 **Flujo principal:**
-1. El estudiante accede al sitio desde su dispositivo(
-2. Navega a la sección “Pasos administrativos”()
+1. El estudiante accede al sitio desde su dispositivo(Ingresar usuario)
+2. Navega a la sección “Pasos administrativos”(Ingresar datos)
 3. Lee la explicación de cada etapa y accede a enlaces oficiales(Ingresar contraseña y confirmar contraseña)
 4. Descarga recursos complementarios si lo desea (Ingresar al sistema)
 
