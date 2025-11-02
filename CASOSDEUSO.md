@@ -83,4 +83,5 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 2. Edita o agrega contenido nuevo
 3. Guarda los cambios y verifica que se reflejen en el sitio
 
+![(https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/27ed5c973bc4b9391e124c1668a93ca56cac7727/casosdeuso.jpeg)]
 ---
