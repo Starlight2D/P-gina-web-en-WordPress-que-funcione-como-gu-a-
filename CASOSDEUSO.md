@@ -18,7 +18,7 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 **Flujo principal:**
 1. El estudiante accede al sitio desde su dispositivo(
 2. Navega a la sección “Pasos administrativos”()
-3. Lee la explicación de cada etapa y accede a enlaces oficiales()
+3. Lee la explicación de cada etapa y accede a enlaces oficiales(Ingresar contraseña y confirmar contraseña)
 4. Descarga recursos complementarios si lo desea (Ingresar al sistema)
 
 ---
