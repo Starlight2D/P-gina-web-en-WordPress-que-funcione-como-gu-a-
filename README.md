@@ -16,11 +16,10 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 - Fechas clave
 - Consejos prácticos
 
-Además, se integrará contenido **simbólico y ético** que valide las emociones del estudiante y promueva el autocuidado(Cositas random dentro de la pagina)
 
 ---
 
-##  Nota sobre la estructura!!!
+##  Nota sobre la estructura
 
 Todo lo descrito hasta ahora corresponde a un **borrador funcional**, sujeto a ajustes según la eficiencia del desarrollo de acuerdo a  las indicaciones del maestro. Es probable que se eliminen, modifiquen o agreguen elementos conforme avance el proyecto, buscando siempre mejorar los detalles y la experiencia del usuario.
 
