@@ -76,7 +76,7 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 **Actor principal:** Estudiante colaborador o administrador del sitio  
 **Objetivo:** Mantener la guía actualizada y funcional  
 **Requisitos relacionados:**
-- Funcional: Estructura editable para testimonios y contenidos
+- Funcional: Estructura editable para contenidos nuevos
 - No funcional: Mantenibilidad estructurada, seguridad básica  
 **Tiempo estimado:** 2 días (Implementación)
 
