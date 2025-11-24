@@ -2,8 +2,6 @@
 
 El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales. A continuación se presentan ordenados por prioridad e impacto, siguiendo la metodología en cascada.
 
----
-
 ### Requisitos Funcionales (ordenados por importancia)
 
 1. **Visualización clara de los pasos administrativos (SIPI, SICEI, inducción, carga académica):**  
@@ -25,8 +23,6 @@ El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales.
 5. **Inclusión de testimonios y preguntas frecuentes:**  
    Humaniza el sitio y permite retroalimentación. Se diseña como módulo editable o formulario.  
    *Tiempo estimado: 3 días (Implementación + Pruebas)*
-
----
 
 ### Requisitos No Funcionales (ordenados por importancia)
 
@@ -53,3 +49,6 @@ El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales.
 6. **Estética simbólica coherente con el mensaje ético y humanista del proyecto:**  
    Refuerza la identidad del sitio y conecta emocionalmente con los usuarios.  
    *Tiempo estimado: 2 días (Diseño)*
+
+
+   ---
