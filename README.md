@@ -199,7 +199,7 @@ Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiemb
 ### Notas
 - Las fechas pueden ajustarse según el ritmo de trabajo del equipo.
   
-![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/72e3b00c4b15ad8137b4948b8f29132a9dd8c16e/cronograma.png)
+![]()
 
 ## Cumplimiento y justificación de cada etapa
 
