@@ -5,7 +5,6 @@ El propósito de este proyecto es diseñar y construir una página web en **Word
 
 Esta plataforma busca acompañar al estudiante en cada etapa del proceso de ingreso, desde el registro en el portal **SIPI** hasta el inicio de clases presenciales, ofreciendo información clara, accesible y empática, basada en la experiencia real de nosotros como integrantes del equipo.
 
----
 
 ##  Enfoque y estructura
 
@@ -17,11 +16,11 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 - Consejos prácticos
 
 
----
-
 ##  Nota sobre la estructura
 
 Todo lo descrito hasta ahora corresponde a un **borrador funcional**, sujeto a ajustes según la eficiencia del desarrollo de acuerdo a  las indicaciones del maestro. Es probable que se eliminen, modifiquen o agreguen elementos conforme avance el proyecto, buscando siempre mejorar los detalles y la experiencia del usuario.
+
+---
 
 ## Equipo del Proyecto
 
@@ -36,6 +35,9 @@ Todo lo descrito hasta ahora corresponde a un **borrador funcional**, sujeto a a
 ### Ángel Rodrigo Gómez Herguera  
 **Rol:** Tester  
 **Responsabilidades:** Revisión funcional, pruebas de navegación y validación de accesibilidad.
+
+---
+
 
 ### Lázaro Damián Choc Kuyoc  
 **Rol:** Mantenimiento Web  
