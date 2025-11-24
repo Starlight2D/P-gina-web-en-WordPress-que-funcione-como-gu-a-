@@ -36,9 +36,9 @@ Todo lo descrito hasta ahora corresponde a un **borrador funcional**, sujeto a a
 **Rol:** Tester  
 **Responsabilidades:** Revisión funcional, pruebas de navegación y validación de accesibilidad.
 
----
-
-
 ### Lázaro Damián Choc Kuyoc  
 **Rol:** Mantenimiento Web  
 **Responsabilidades:** Documentación técnica, respaldo de versiones y ajustes posteriores.
+
+---
+
