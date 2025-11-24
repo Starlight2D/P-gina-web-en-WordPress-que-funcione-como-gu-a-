@@ -2,10 +2,10 @@
 
 Este cronograma está basado en el inicio del proyecto el **lunes 29 de septiembre de 2025** y la fecha de entrega estimada del tiempo el **lunes 20 de octubre de 2025**.
 
-![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/72e3b00c4b15ad8137b4948b8f29132a9dd8c16e/cronograma.png)
-
 ### Notas
-- Las fechas pueden ajustarse según el ritmo de trabajo del equipo.  
+- Las fechas pueden ajustarse según el ritmo de trabajo del equipo.
+  
+![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/72e3b00c4b15ad8137b4948b8f29132a9dd8c16e/cronograma.png)
 
 ## Cumplimiento y justificación de cada etapa
 
