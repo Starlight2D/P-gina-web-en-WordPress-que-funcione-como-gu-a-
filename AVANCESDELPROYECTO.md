@@ -61,14 +61,17 @@ Este apartado documenta las acciones realizadas directamente en la plataforma Wo
 
 ---
 
-###  16 y 17 de octubre – Finalización anticipada
-- Aunque el cronograma marcaba más días, se decidió terminar el sitio antes del 20 de octubre.
-- Se realizaron ajustes finales en estructura, contenido y el diseñom tristemente quedo mal ya que pedia pagar por los colores
+###  16 y 17 de octubre – Continuacion anticipada
+- Debido a que en el cronograma se marco más días, se decidió terminar el sitio antes del 26 de Noviembre.
+- Se realizaron ajustes muchos en la estructura, contenido y el diseño de la pagina
   
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/0a60fb3e6abeffee6e0d8bf19e1246c45ffc18cd/estructura.png)
 
   ![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/2ddf87663317a008f5db68a07341a245bdd36a1c/estructura2.jpg)
-  
-- Hoy, 17 de octubre, se tiene como meta cerrar completamente la edición del sitio web, aunque hay aspetos que aun quedan pendientes.
+
+---
+
+###  20 de octubre y 26 de noviembre – Finalización anticipada
+- Hoy, 24 de octubre, se tiene como meta cerrar completamente la edición del sitio web
 
 
