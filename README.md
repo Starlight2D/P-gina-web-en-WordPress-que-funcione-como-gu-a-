@@ -39,3 +39,13 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 
 ---
 
+
+##  Metodología de Desarrollo: Modelo en Cascada
+
+Para el desarrollo de este proyecto se ha elegido el **modelo en cascada**, debido a su estructura secuencial que permite avanzar por etapas bien definidas, sea para el **análisis, diseño, construcción, pruebas y entrega**. Ya que esta metodología facilita la organización del trabajo en un entorno académico, donde cada fase puede documentarse y validarse con claridad, mas lo que deseamos obtener.
+
+Aunque el modelo tradicional es lineal, en este proyecto lo estamos adaptando con **flexibilidad estratégica**, permitiendo retroceder a etapas anteriores cuando se requiere ajustar contenido, estructura o enfoque según la retroalimentación que llegemos a tener como equipo.
+
+Además, se complementa con el uso de **prototipos visuales** que permiten validar la interfaz, la navegación y el contenido antes de finalizar el desarrollo en WordPress. Esto asegura que el producto final(aunque el producto aun no esta terminado o no puede terminarse) sea coherente con los objetivos éticos, funcionales y simbólicos del proyecto que nosotros le queremos poner al proyecto 
+
+![](https://github.com/Starlight2D/P-gina-web-en-WordPress-que-funcione-como-gu-a-/blob/4193d9af90877bbaf98781a0e05c19510a84fb58/graficadecascada.png)
