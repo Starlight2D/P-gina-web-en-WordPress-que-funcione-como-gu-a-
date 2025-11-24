@@ -1,8 +1,7 @@
+---
 ## Casos de Uso del Proyecto Guía Web LIS-UADY
 
 Los siguientes escenarios representan las interacciones clave entre los usuarios y el sitio web. Cada caso de uso está vinculado con requisitos funcionales y no funcionales, y se presenta en orden de importancia estratégica para el proyecto, junto con el tiempo estimado de desarrollo.
-
----
 
 ### 🧭 Caso de Uso 1: Consultar pasos administrativos
 
@@ -21,8 +20,6 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 3. Lee la explicación de cada etapa y accede a enlaces oficiales(Ingresar contraseña y confirmar contraseña)
 4. Descarga recursos complementarios si lo desea (Ingresar al sistema)
 
----
-
 ### 📱 Caso de Uso 2: Acceder desde diferentes plataformas
 
 **Actor principal:** Estudiante con distintos dispositivos  
@@ -37,7 +34,6 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 2. La interfaz se adapta automáticamente al tamaño de pantalla
 3. Navega sin dificultad por las secciones
 
----
 
 ### 📚 Caso de Uso 3: Descargar recursos académicos
 
@@ -53,8 +49,6 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 2. Selecciona el tipo de recurso que necesita
 3. Descarga el archivo en su dispositivo
 
----
-
 ### 💬 Caso de Uso 4: Leer testimonios y preguntas frecuentes
 
 **Actor principal:** Estudiante con dudas sobre la experiencia universitaria  
@@ -68,8 +62,6 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 1. El estudiante accede a la sección “Testimonios y FAQ”
 2. Lee experiencias de otros estudiantes
 3. Consulta respuestas a preguntas frecuentes
-
----
 
 ### 🔧 Caso de Uso 5: Actualizar contenido por generaciones futuras
 
