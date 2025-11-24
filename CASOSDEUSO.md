@@ -1,4 +1,3 @@
----
 ## Casos de Uso del Proyecto Guía Web LIS-UADY
 
 Los siguientes escenarios representan las interacciones clave entre los usuarios y el sitio web. Cada caso de uso está vinculado con requisitos funcionales y no funcionales, y se presenta en orden de importancia estratégica para el proyecto, junto con el tiempo estimado de desarrollo.
