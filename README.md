@@ -150,7 +150,7 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 ### Caso de Uso 3: Descargar recursos académicos
 
 **Actor principal:** Estudiante interesado en reforzar conceptos  
-**Objetivo:** Obtener glosarios, diagramas y ejemplos útiles  
+**Objetivo:** Obtener informacion, diagramas y una guia
 **Requisitos relacionados:**
 - Funcional: Descarga de recursos
 - No funcional: Rendimiento optimizado, seguridad básica  
@@ -166,14 +166,14 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 **Actor principal:** Estudiante con dudas sobre la experiencia universitaria  
 **Objetivo:** Sentirse acompañado y resolver inquietudes comunes  
 **Requisitos relacionados:**
-- Funcional: Inclusión de testimonios y preguntas frecuentes
-- No funcional: Estética simbólica, interfaz amigable  
+- Funcional: Inclusión de testimonios y preguntas frecuentes que tiene integrado la pagina
+- No funcional: Estética simbólica, una interfaz amigable  
 **Tiempo estimado:** 3 días (Implementación + Pruebas)
 
 **Flujo principal:**
-1. El estudiante accede a la sección “Testimonios y FAQ”
+1. El estudiante accede a la sección “Testimonios de la pagina”
 2. Lee experiencias de otros estudiantes
-3. Consulta respuestas a preguntas frecuentes
+3. Consulta respuestas a preguntas frecuentes que se guardan
 
 ### Caso de Uso 5: Actualizar contenido por generaciones futuras
 
