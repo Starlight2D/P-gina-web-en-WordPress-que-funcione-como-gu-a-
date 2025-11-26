@@ -42,28 +42,6 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 ---
 
 
-## Integrantes del Proyecto
-
-### Brandon Alexander Gutiérrez Sosa  
-**Rol:** Líder del Proyecto  
-**Responsabilidades:** Coordinación general, definición de estructura, validación de contenido y metodología.
-
-### Carlos Esteban Castro Uh  
-**Rol:** Desarrollador 
-**Responsabilidades:** Implementación de secciones clave en WordPress, integración de plugins y navegación, ademas ahora ve el diseño, la estructura de la pagina y optimización de interfaz.
-
-### Ángel Rodrigo Gómez Herguera  
-**Rol:** Tester  
-**Responsabilidades:** Revisión funcional, pruebas de navegación y validación de accesibilidad.
-
-### Lázaro Damián Choc Kuyoc  
-**Rol:** Mantenimiento Web  
-**Responsabilidades:** Documentación técnica, respaldo de versiones y ajustes posteriores.
-
-
----
-
-
 ##  Metodología de Desarrollo: Modelo en Cascada
 
 Para el desarrollo de este proyecto se ha elegido el **modelo en cascada**, debido a su estructura secuencial que permite avanzar por etapas bien definidas, sea para el **análisis, diseño, construcción, pruebas y entrega**. Ya que esta metodología facilita la organización del trabajo en un entorno académico, donde cada fase puede documentarse y validarse con claridad, mas lo que deseamos obtener.
