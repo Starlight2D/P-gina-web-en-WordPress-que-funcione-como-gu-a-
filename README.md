@@ -44,7 +44,7 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 
 El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales. A continuación se presentan ordenados por prioridad e impacto, siguiendo la metodología en cascada.
 
-### Requisitos Funcionales (ordenados por importancia)
+### Requisitos Funcionales 
 
 1. **Visualización clara de los pasos administrativos (SIPI, SICEI, inducción, carga académica):**  
    Núcleo informativo del sitio. Debe estar bien estructurado desde la fase de análisis, ya que guía al estudiante en su proceso de ingreso.  
@@ -66,7 +66,7 @@ El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales.
    Humaniza el sitio y permite retroalimentación. Se diseña como módulo editable o formulario.  
    *Tiempo estimado: 3 días (Implementación + Pruebas)*
 
-### Requisitos No Funcionales (ordenados por importancia)
+### Requisitos No Funcionales 
 
 1. **Interfaz intuitiva y amigable para estudiantes sin experiencia técnica:**  
    Clave para la usabilidad. Se define desde el diseño y se valida en pruebas con usuarios reales.  
