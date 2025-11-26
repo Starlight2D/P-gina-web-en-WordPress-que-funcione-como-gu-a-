@@ -9,7 +9,7 @@
 **Rol:** Desarrollador 
 **Responsabilidades:** Implementación de secciones clave en WordPress, integración de plugins y navegación, ademas ahora ve el diseño, la estructura de la pagina y optimización de interfaz.
 
-### Ángel Rodrigo Gómez Herguera  
+### Ángel Rodrigo Gómez Herguera y Rolando Juan Contreras Famania
 **Rol:** Tester  
 **Responsabilidades:** Revisión funcional, pruebas de navegación y validación de accesibilidad.
 
