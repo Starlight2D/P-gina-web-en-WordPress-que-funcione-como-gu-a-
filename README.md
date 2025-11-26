@@ -161,21 +161,8 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 2. Selecciona el tipo de recurso que necesita
 3. Descarga el archivo en su dispositivo
 
-### Caso de Uso 4: Leer testimonios y preguntas frecuentes
 
-**Actor principal:** Estudiante con dudas sobre la experiencia universitaria  
-**Objetivo:** Sentirse acompañado y resolver inquietudes comunes  
-**Requisitos relacionados:**
-- Funcional: Inclusión de testimonios y preguntas frecuentes que tiene integrado la pagina
-- No funcional: Estética simbólica, una interfaz amigable  
-**Tiempo estimado:** 3 días (Implementación + Pruebas)
-
-**Flujo principal:**
-1. El estudiante accede a la sección “Testimonios de la pagina”
-2. Lee experiencias de otros estudiantes
-3. Consulta respuestas a preguntas frecuentes que se guardan
-
-### Caso de Uso 5: Actualizar contenido por generaciones futuras
+### Caso de Uso 4: Actualizar contenido por generaciones futuras
 
 **Actor principal:** Estudiante colaborador o administrador del sitio  
 **Objetivo:** Mantener la guía actualizada y funcional  
