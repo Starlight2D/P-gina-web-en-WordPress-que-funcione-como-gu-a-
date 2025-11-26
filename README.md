@@ -58,13 +58,10 @@ El proyecto contempla dos tipos de requisitos, los funcionales y no funcionales.
    Fundamental para garantizar inclusión y accesibilidad. Se valida en pruebas de compatibilidad.  
    *Tiempo estimado: 2 días (Diseño + Pruebas)*
 
-4. **Descarga de recursos (glosarios, ejemplos):**  
+4. **Descarga de recursos :**  
    Refuerza el aprendizaje autónomo. Debe estar disponible en formatos ligeros y seguros.  
    *Tiempo estimado: 2 días (Implementación)*
 
-5. **Inclusión de testimonios y preguntas frecuentes:**  
-   Humaniza el sitio y permite retroalimentación. Se diseña como módulo editable o formulario.  
-   *Tiempo estimado: 3 días (Implementación + Pruebas)*
 
 ### Requisitos No Funcionales 
 
