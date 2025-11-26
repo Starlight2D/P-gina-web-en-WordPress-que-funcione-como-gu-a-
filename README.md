@@ -138,7 +138,7 @@ Los siguientes escenarios representan las interacciones clave entre los usuarios
 **Objetivo:** Consultar la guía desde celular, tablet o computadora  
 **Requisitos relacionados:**
 - Funcional: Acceso desde diferentes plataformas
-- No funcional: Diseño responsivo, rendimiento optimizado  
+- No funcional: Diseño agradable, rendimiento optimizado  
 **Tiempo estimado:** 2 días (Diseño + Pruebas)
 
 **Flujo principal:**
