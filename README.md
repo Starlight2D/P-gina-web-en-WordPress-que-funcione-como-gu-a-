@@ -19,7 +19,7 @@ La guía está pensada como una herramienta digital que simplifique el proceso d
 ---
 
 
-## Equipo del Proyecto
+## Integrantes del Proyecto
 
 ### Brandon Alexander Gutiérrez Sosa  
 **Rol:** Líder del Proyecto  
